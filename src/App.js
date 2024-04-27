@@ -10,7 +10,7 @@ const App = () => {
       <div className="App">
         <Routes>
           {/* Маршрут для главной страницы */}
-          <Route path="/" element={<TicketList />} />
+          <Route path="/ticket-filter" element={<TicketList />} />
         </Routes>
       </div>
     </Router>
