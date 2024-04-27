@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/digtaltech/ticket-filter/static/css/main.028559a6.css",
-    "main.js": "/digtaltech/ticket-filter/static/js/main.3d879ba9.js",
-    "static/js/453.f0c57d5a.chunk.js": "/digtaltech/ticket-filter/static/js/453.f0c57d5a.chunk.js",
-    "static/media/logo.png": "/digtaltech/ticket-filter/static/media/logo.543e1a2f41147bc0ef5c.png",
-    "index.html": "/digtaltech/ticket-filter/index.html",
-    "main.028559a6.css.map": "/digtaltech/ticket-filter/static/css/main.028559a6.css.map",
-    "main.3d879ba9.js.map": "/digtaltech/ticket-filter/static/js/main.3d879ba9.js.map",
-    "453.f0c57d5a.chunk.js.map": "/digtaltech/ticket-filter/static/js/453.f0c57d5a.chunk.js.map"
+    "main.css": "/digtaltech/ticket-filter/build/static/css/main.028559a6.css",
+    "main.js": "/digtaltech/ticket-filter/build/static/js/main.c8edcb27.js",
+    "static/js/453.f0c57d5a.chunk.js": "/digtaltech/ticket-filter/build/static/js/453.f0c57d5a.chunk.js",
+    "static/media/logo.png": "/digtaltech/ticket-filter/build/static/media/logo.543e1a2f41147bc0ef5c.png",
+    "index.html": "/digtaltech/ticket-filter/build/index.html",
+    "main.028559a6.css.map": "/digtaltech/ticket-filter/build/static/css/main.028559a6.css.map",
+    "main.c8edcb27.js.map": "/digtaltech/ticket-filter/build/static/js/main.c8edcb27.js.map",
+    "453.f0c57d5a.chunk.js.map": "/digtaltech/ticket-filter/build/static/js/453.f0c57d5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.028559a6.css",
-    "static/js/main.3d879ba9.js"
+    "static/js/main.c8edcb27.js"
   ]
 }
