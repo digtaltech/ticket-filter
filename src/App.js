@@ -11,7 +11,6 @@ const App = () => {
         <Routes>
           {/* Маршрут для главной страницы */}
           <Route path="/" element={<TicketList />} />
-
         </Routes>
       </div>
     </Router>
