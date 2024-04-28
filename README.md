@@ -1,3 +1,17 @@
+# Ссылка на деплой
+https://digtaltech.github.io/ticket-filter/
+
+
+# Что сделано?
+- Фотки подгружаю по всем возможным компаниям по их ID
+- Фильтрация по пересадкам
+- Переключение валют с перерасчётом
+- Поддержка IE11 (Кроме фоток, т.к там кроссдомен)
+
+
+#
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

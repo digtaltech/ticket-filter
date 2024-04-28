@@ -1,3 +1,6 @@
+import 'react-app-polyfill/ie11'; // Поддержка IE 11
+import 'react-app-polyfill/stable'; // Совместимость с другими старыми браузерами
+import 'core-js/stable/symbol'
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
